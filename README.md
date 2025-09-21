@@ -3,5 +3,12 @@ Este repositório tem como objetivo disponibilizar os Trabalhos Práticos Contí
 
 Este repositório é da autoria do aluno Pedro Rodrigues Campos, com o número A108482.
 
-## Trabalhos Práticos (TPC)
+## Trabalhos Práticos 
 * [TP1](TP1)
+* [TP2](TP2)
+* [TP3](TP3)
+* [TP4](TP4)
+* [TP5](TP5)
+* [TP6](TP6)
+* [TP7](TP7)
+* [TP8](TP8)
