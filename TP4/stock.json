@@ -1,0 +1,40 @@
+{
+    "stock": [
+        {
+            "cod": "A01",
+            "nome": "agua 0.5L",
+            "quant": 6,
+            "preco": 0.7
+        },
+        {
+            "cod": "A02",
+            "nome": "chocolate",
+            "quant": 0,
+            "preco": 0.9
+        },
+        {
+            "cod": "B10",
+            "nome": "sumol laranja",
+            "quant": 5,
+            "preco": 1.2
+        },
+        {
+            "cod": "C01",
+            "nome": "coca-cola lata",
+            "quant": 11,
+            "preco": 1.5
+        },
+        {
+            "cod": "E02",
+            "nome": "batatas fritas",
+            "quant": 4,
+            "preco": 1.4
+        },
+        {
+            "cod": "E03",
+            "nome": "sandes",
+            "quant": 3,
+            "preco": 2.5
+        }
+    ]
+}
