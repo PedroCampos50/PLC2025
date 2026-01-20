@@ -9,6 +9,4 @@ Este repositório é da autoria do aluno Pedro Rodrigues Campos, com o número A
 * [TP3](TP3)
 * [TP4](TP4)
 * [TP5](TP5)
-* [TP6](TP6)
-* [TP7](TP7)
-* [TP8](TP8)
+
